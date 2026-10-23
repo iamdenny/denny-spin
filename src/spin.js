@@ -59,12 +59,17 @@ function draw() {
   }
   $("entry-count").textContent = String(n);
 }
+function clearSelection() {
+  last = null;
+  $("remove").disabled = true;
+  $("winner").hidden = true;
+  $("team-results").replaceChildren();
+}
 function update() {
   try {
     names = entries($("entries").value);
     draw();
-    last = null;
-    $("remove").disabled = true;
+    clearSelection();
     return true;
   } catch {
     status(t("invalid"));
@@ -159,6 +164,7 @@ $("teams").onclick = () => {
 $("download").onclick = () =>
   download("denny-spin.csv", csv([[t("history")], ...history.map((n) => [n])]));
 function restore(s) {
+  clearSelection();
   names = s.names;
   $("entries").value = names.join("\n");
   draw();
