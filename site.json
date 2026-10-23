@@ -1,4 +1,12 @@
 {
   "kind": "spin",
-  "measurementId": "G-CC5LLEE7MQ"
+  "measurementId": "G-CC5LLEE7MQ",
+  "adsterra": {
+    "approved": true,
+    "key": "1beb971f923f116367399fbb7db17530",
+    "unitId": 31878920
+  },
+  "coupang": {
+    "channelRegistered": false
+  }
 }
