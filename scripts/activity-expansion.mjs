@@ -6510,44 +6510,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use catalog.",
-        "Ask a partner how they use loan.",
-        "Ask a partner how they use return.",
-        "Ask a partner how they use reservation.",
-        "Ask a partner how they use shelf.",
-        "Ask a partner how they use reader.",
-        "Ask a partner how they use receipt.",
-        "Ask a partner how they use bookmark."
+        "Ask about an experience with catalog.",
+        "Ask about an experience with loan.",
+        "Ask about an experience with return.",
+        "Ask about an experience with reservation.",
+        "Ask about an experience with shelf.",
+        "Ask about an experience with reader.",
+        "Ask about an experience with receipt.",
+        "Ask about an experience with bookmark."
       ],
       [
-        "목록: 어떻게 사용하는지 짝에게 물어보세요.",
-        "대출: 어떻게 사용하는지 짝에게 물어보세요.",
-        "반납: 어떻게 사용하는지 짝에게 물어보세요.",
-        "예약: 어떻게 사용하는지 짝에게 물어보세요.",
-        "서가: 어떻게 사용하는지 짝에게 물어보세요.",
-        "독자: 어떻게 사용하는지 짝에게 물어보세요.",
-        "확인증: 어떻게 사용하는지 짝에게 물어보세요.",
-        "책갈피: 어떻게 사용하는지 짝에게 물어보세요."
+        "목록: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "대출: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "반납: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "예약: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "서가: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "독자: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "확인증: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "책갈피: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "目録の使い方を相手に聞きます。",
-        "貸出の使い方を相手に聞きます。",
-        "返却の使い方を相手に聞きます。",
-        "予約の使い方を相手に聞きます。",
-        "書棚の使い方を相手に聞きます。",
-        "読者の使い方を相手に聞きます。",
-        "控えの使い方を相手に聞きます。",
-        "しおりの使い方を相手に聞きます。"
+        "目録に関する経験や場面を相手に聞きます。",
+        "貸出に関する経験や場面を相手に聞きます。",
+        "返却に関する経験や場面を相手に聞きます。",
+        "予約に関する経験や場面を相手に聞きます。",
+        "書棚に関する経験や場面を相手に聞きます。",
+        "読者に関する経験や場面を相手に聞きます。",
+        "控えに関する経験や場面を相手に聞きます。",
+        "しおりに関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza catálogo.",
-        "Pregunta a tu pareja cómo utiliza préstamo.",
-        "Pregunta a tu pareja cómo utiliza devolución.",
-        "Pregunta a tu pareja cómo utiliza reserva.",
-        "Pregunta a tu pareja cómo utiliza estante.",
-        "Pregunta a tu pareja cómo utiliza lector.",
-        "Pregunta a tu pareja cómo utiliza recibo.",
-        "Pregunta a tu pareja cómo utiliza marcapáginas."
+        "Pregunta por una experiencia con catálogo.",
+        "Pregunta por una experiencia con préstamo.",
+        "Pregunta por una experiencia con devolución.",
+        "Pregunta por una experiencia con reserva.",
+        "Pregunta por una experiencia con estante.",
+        "Pregunta por una experiencia con lector.",
+        "Pregunta por una experiencia con recibo.",
+        "Pregunta por una experiencia con marcapáginas."
       ]
     ]
   },
@@ -6825,44 +6825,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use gallery.",
-        "Ask a partner how they use label.",
-        "Ask a partner how they use sketch.",
-        "Ask a partner how they use guide.",
-        "Ask a partner how they use ticket.",
-        "Ask a partner how they use exhibit.",
-        "Ask a partner how they use sculpture.",
-        "Ask a partner how they use map."
+        "Ask about an experience with gallery.",
+        "Ask about an experience with label.",
+        "Ask about an experience with sketch.",
+        "Ask about an experience with guide.",
+        "Ask about an experience with ticket.",
+        "Ask about an experience with exhibit.",
+        "Ask about an experience with sculpture.",
+        "Ask about an experience with map."
       ],
       [
-        "전시실: 어떻게 사용하는지 짝에게 물어보세요.",
-        "설명표: 어떻게 사용하는지 짝에게 물어보세요.",
-        "스케치: 어떻게 사용하는지 짝에게 물어보세요.",
-        "안내원: 어떻게 사용하는지 짝에게 물어보세요.",
-        "입장권: 어떻게 사용하는지 짝에게 물어보세요.",
-        "전시품: 어떻게 사용하는지 짝에게 물어보세요.",
-        "조각: 어떻게 사용하는지 짝에게 물어보세요.",
-        "지도: 어떻게 사용하는지 짝에게 물어보세요."
+        "전시실: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "설명표: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "스케치: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "안내원: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "입장권: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "전시품: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "조각: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "지도: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "展示室の使い方を相手に聞きます。",
-        "解説の使い方を相手に聞きます。",
-        "スケッチの使い方を相手に聞きます。",
-        "案内人の使い方を相手に聞きます。",
-        "入場券の使い方を相手に聞きます。",
-        "展示品の使い方を相手に聞きます。",
-        "彫刻の使い方を相手に聞きます。",
-        "地図の使い方を相手に聞きます。"
+        "展示室に関する経験や場面を相手に聞きます。",
+        "解説に関する経験や場面を相手に聞きます。",
+        "スケッチに関する経験や場面を相手に聞きます。",
+        "案内人に関する経験や場面を相手に聞きます。",
+        "入場券に関する経験や場面を相手に聞きます。",
+        "展示品に関する経験や場面を相手に聞きます。",
+        "彫刻に関する経験や場面を相手に聞きます。",
+        "地図に関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza galería.",
-        "Pregunta a tu pareja cómo utiliza cartela.",
-        "Pregunta a tu pareja cómo utiliza boceto.",
-        "Pregunta a tu pareja cómo utiliza guía.",
-        "Pregunta a tu pareja cómo utiliza entrada.",
-        "Pregunta a tu pareja cómo utiliza exposición.",
-        "Pregunta a tu pareja cómo utiliza escultura.",
-        "Pregunta a tu pareja cómo utiliza mapa."
+        "Pregunta por una experiencia con galería.",
+        "Pregunta por una experiencia con cartela.",
+        "Pregunta por una experiencia con boceto.",
+        "Pregunta por una experiencia con guía.",
+        "Pregunta por una experiencia con entrada.",
+        "Pregunta por una experiencia con exposición.",
+        "Pregunta por una experiencia con escultura.",
+        "Pregunta por una experiencia con mapa."
       ]
     ]
   },
@@ -7140,44 +7140,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use loaf.",
-        "Ask a partner how they use roll.",
-        "Ask a partner how they use tray.",
-        "Ask a partner how they use flour.",
-        "Ask a partner how they use oven.",
-        "Ask a partner how they use bag.",
-        "Ask a partner how they use order.",
-        "Ask a partner how they use queue."
+        "Ask about an experience with loaf.",
+        "Ask about an experience with roll.",
+        "Ask about an experience with tray.",
+        "Ask about an experience with flour.",
+        "Ask about an experience with oven.",
+        "Ask about an experience with bag.",
+        "Ask about an experience with order.",
+        "Ask about an experience with queue."
       ],
       [
-        "식빵: 어떻게 사용하는지 짝에게 물어보세요.",
-        "모닝빵: 어떻게 사용하는지 짝에게 물어보세요.",
-        "쟁반: 어떻게 사용하는지 짝에게 물어보세요.",
-        "밀가루: 어떻게 사용하는지 짝에게 물어보세요.",
-        "오븐: 어떻게 사용하는지 짝에게 물어보세요.",
-        "봉투: 어떻게 사용하는지 짝에게 물어보세요.",
-        "주문: 어떻게 사용하는지 짝에게 물어보세요.",
-        "대기줄: 어떻게 사용하는지 짝에게 물어보세요."
+        "식빵: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "모닝빵: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "쟁반: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "밀가루: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "오븐: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "봉투: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "주문: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "대기줄: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "食パンの使い方を相手に聞きます。",
-        "丸パンの使い方を相手に聞きます。",
-        "トレーの使い方を相手に聞きます。",
-        "小麦粉の使い方を相手に聞きます。",
-        "オーブンの使い方を相手に聞きます。",
-        "袋の使い方を相手に聞きます。",
-        "注文の使い方を相手に聞きます。",
-        "行列の使い方を相手に聞きます。"
+        "食パンに関する経験や場面を相手に聞きます。",
+        "丸パンに関する経験や場面を相手に聞きます。",
+        "トレーに関する経験や場面を相手に聞きます。",
+        "小麦粉に関する経験や場面を相手に聞きます。",
+        "オーブンに関する経験や場面を相手に聞きます。",
+        "袋に関する経験や場面を相手に聞きます。",
+        "注文に関する経験や場面を相手に聞きます。",
+        "行列に関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza hogaza.",
-        "Pregunta a tu pareja cómo utiliza panecillo.",
-        "Pregunta a tu pareja cómo utiliza bandeja.",
-        "Pregunta a tu pareja cómo utiliza harina.",
-        "Pregunta a tu pareja cómo utiliza horno.",
-        "Pregunta a tu pareja cómo utiliza bolsa.",
-        "Pregunta a tu pareja cómo utiliza pedido.",
-        "Pregunta a tu pareja cómo utiliza cola."
+        "Pregunta por una experiencia con hogaza.",
+        "Pregunta por una experiencia con panecillo.",
+        "Pregunta por una experiencia con bandeja.",
+        "Pregunta por una experiencia con harina.",
+        "Pregunta por una experiencia con horno.",
+        "Pregunta por una experiencia con bolsa.",
+        "Pregunta por una experiencia con pedido.",
+        "Pregunta por una experiencia con cola."
       ]
     ]
   },
@@ -7455,44 +7455,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use basket.",
-        "Ask a partner how they use price.",
-        "Ask a partner how they use scale.",
-        "Ask a partner how they use stall.",
-        "Ask a partner how they use change.",
-        "Ask a partner how they use apple.",
-        "Ask a partner how they use carrot.",
-        "Ask a partner how they use bag."
+        "Ask about an experience with basket.",
+        "Ask about an experience with price.",
+        "Ask about an experience with scale.",
+        "Ask about an experience with stall.",
+        "Ask about an experience with change.",
+        "Ask about an experience with apple.",
+        "Ask about an experience with carrot.",
+        "Ask about an experience with bag."
       ],
       [
-        "바구니: 어떻게 사용하는지 짝에게 물어보세요.",
-        "가격: 어떻게 사용하는지 짝에게 물어보세요.",
-        "저울: 어떻게 사용하는지 짝에게 물어보세요.",
-        "가판대: 어떻게 사용하는지 짝에게 물어보세요.",
-        "거스름돈: 어떻게 사용하는지 짝에게 물어보세요.",
-        "사과: 어떻게 사용하는지 짝에게 물어보세요.",
-        "당근: 어떻게 사용하는지 짝에게 물어보세요.",
-        "장바구니: 어떻게 사용하는지 짝에게 물어보세요."
+        "바구니: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "가격: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "저울: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "가판대: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "거스름돈: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "사과: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "당근: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "장바구니: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "かごの使い方を相手に聞きます。",
-        "値段の使い方を相手に聞きます。",
-        "はかりの使い方を相手に聞きます。",
-        "売り場の使い方を相手に聞きます。",
-        "お釣りの使い方を相手に聞きます。",
-        "りんごの使い方を相手に聞きます。",
-        "にんじんの使い方を相手に聞きます。",
-        "買い物袋の使い方を相手に聞きます。"
+        "かごに関する経験や場面を相手に聞きます。",
+        "値段に関する経験や場面を相手に聞きます。",
+        "はかりに関する経験や場面を相手に聞きます。",
+        "売り場に関する経験や場面を相手に聞きます。",
+        "お釣りに関する経験や場面を相手に聞きます。",
+        "りんごに関する経験や場面を相手に聞きます。",
+        "にんじんに関する経験や場面を相手に聞きます。",
+        "買い物袋に関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza cesta.",
-        "Pregunta a tu pareja cómo utiliza precio.",
-        "Pregunta a tu pareja cómo utiliza balanza.",
-        "Pregunta a tu pareja cómo utiliza puesto.",
-        "Pregunta a tu pareja cómo utiliza cambio.",
-        "Pregunta a tu pareja cómo utiliza manzana.",
-        "Pregunta a tu pareja cómo utiliza zanahoria.",
-        "Pregunta a tu pareja cómo utiliza bolsa."
+        "Pregunta por una experiencia con cesta.",
+        "Pregunta por una experiencia con precio.",
+        "Pregunta por una experiencia con balanza.",
+        "Pregunta por una experiencia con puesto.",
+        "Pregunta por una experiencia con cambio.",
+        "Pregunta por una experiencia con manzana.",
+        "Pregunta por una experiencia con zanahoria.",
+        "Pregunta por una experiencia con bolsa."
       ]
     ]
   },
@@ -7770,44 +7770,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use platform.",
-        "Ask a partner how they use carriage.",
-        "Ask a partner how they use seat.",
-        "Ask a partner how they use ticket.",
-        "Ask a partner how they use route.",
-        "Ask a partner how they use luggage.",
-        "Ask a partner how they use arrival.",
-        "Ask a partner how they use transfer."
+        "Ask about an experience with platform.",
+        "Ask about an experience with carriage.",
+        "Ask about an experience with seat.",
+        "Ask about an experience with ticket.",
+        "Ask about an experience with route.",
+        "Ask about an experience with luggage.",
+        "Ask about an experience with arrival.",
+        "Ask about an experience with transfer."
       ],
       [
-        "승강장: 어떻게 사용하는지 짝에게 물어보세요.",
-        "객차: 어떻게 사용하는지 짝에게 물어보세요.",
-        "좌석: 어떻게 사용하는지 짝에게 물어보세요.",
-        "승차권: 어떻게 사용하는지 짝에게 물어보세요.",
-        "노선: 어떻게 사용하는지 짝에게 물어보세요.",
-        "짐: 어떻게 사용하는지 짝에게 물어보세요.",
-        "도착: 어떻게 사용하는지 짝에게 물어보세요.",
-        "환승: 어떻게 사용하는지 짝에게 물어보세요."
+        "승강장: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "객차: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "좌석: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "승차권: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "노선: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "짐: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "도착: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "환승: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "ホームの使い方を相手に聞きます。",
-        "車両の使い方を相手に聞きます。",
-        "座席の使い方を相手に聞きます。",
-        "切符の使い方を相手に聞きます。",
-        "路線の使い方を相手に聞きます。",
-        "荷物の使い方を相手に聞きます。",
-        "到着の使い方を相手に聞きます。",
-        "乗換の使い方を相手に聞きます。"
+        "ホームに関する経験や場面を相手に聞きます。",
+        "車両に関する経験や場面を相手に聞きます。",
+        "座席に関する経験や場面を相手に聞きます。",
+        "切符に関する経験や場面を相手に聞きます。",
+        "路線に関する経験や場面を相手に聞きます。",
+        "荷物に関する経験や場面を相手に聞きます。",
+        "到着に関する経験や場面を相手に聞きます。",
+        "乗換に関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza andén.",
-        "Pregunta a tu pareja cómo utiliza vagón.",
-        "Pregunta a tu pareja cómo utiliza asiento.",
-        "Pregunta a tu pareja cómo utiliza billete.",
-        "Pregunta a tu pareja cómo utiliza ruta.",
-        "Pregunta a tu pareja cómo utiliza equipaje.",
-        "Pregunta a tu pareja cómo utiliza llegada.",
-        "Pregunta a tu pareja cómo utiliza transbordo."
+        "Pregunta por una experiencia con andén.",
+        "Pregunta por una experiencia con vagón.",
+        "Pregunta por una experiencia con asiento.",
+        "Pregunta por una experiencia con billete.",
+        "Pregunta por una experiencia con ruta.",
+        "Pregunta por una experiencia con equipaje.",
+        "Pregunta por una experiencia con llegada.",
+        "Pregunta por una experiencia con transbordo."
       ]
     ]
   },
@@ -8085,44 +8085,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use terminal.",
-        "Ask a partner how they use gate.",
-        "Ask a partner how they use passport.",
-        "Ask a partner how they use boarding.",
-        "Ask a partner how they use screen.",
-        "Ask a partner how they use suitcase.",
-        "Ask a partner how they use tag.",
-        "Ask a partner how they use departure."
+        "Ask about an experience with terminal.",
+        "Ask about an experience with gate.",
+        "Ask about an experience with passport.",
+        "Ask about an experience with boarding.",
+        "Ask about an experience with screen.",
+        "Ask about an experience with suitcase.",
+        "Ask about an experience with tag.",
+        "Ask about an experience with departure."
       ],
       [
-        "터미널: 어떻게 사용하는지 짝에게 물어보세요.",
-        "탑승구: 어떻게 사용하는지 짝에게 물어보세요.",
-        "여권: 어떻게 사용하는지 짝에게 물어보세요.",
-        "탑승: 어떻게 사용하는지 짝에게 물어보세요.",
-        "안내화면: 어떻게 사용하는지 짝에게 물어보세요.",
-        "여행가방: 어떻게 사용하는지 짝에게 물어보세요.",
-        "수하물표: 어떻게 사용하는지 짝에게 물어보세요.",
-        "출발: 어떻게 사용하는지 짝에게 물어보세요."
+        "터미널: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "탑승구: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "여권: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "탑승: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "안내화면: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "여행가방: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "수하물표: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "출발: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "ターミナルの使い方を相手に聞きます。",
-        "搭乗口の使い方を相手に聞きます。",
-        "旅券の使い方を相手に聞きます。",
-        "搭乗の使い方を相手に聞きます。",
-        "案内画面の使い方を相手に聞きます。",
-        "スーツケースの使い方を相手に聞きます。",
-        "荷札の使い方を相手に聞きます。",
-        "出発の使い方を相手に聞きます。"
+        "ターミナルに関する経験や場面を相手に聞きます。",
+        "搭乗口に関する経験や場面を相手に聞きます。",
+        "旅券に関する経験や場面を相手に聞きます。",
+        "搭乗に関する経験や場面を相手に聞きます。",
+        "案内画面に関する経験や場面を相手に聞きます。",
+        "スーツケースに関する経験や場面を相手に聞きます。",
+        "荷札に関する経験や場面を相手に聞きます。",
+        "出発に関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza terminal.",
-        "Pregunta a tu pareja cómo utiliza puerta.",
-        "Pregunta a tu pareja cómo utiliza pasaporte.",
-        "Pregunta a tu pareja cómo utiliza embarque.",
-        "Pregunta a tu pareja cómo utiliza pantalla.",
-        "Pregunta a tu pareja cómo utiliza maleta.",
-        "Pregunta a tu pareja cómo utiliza etiqueta.",
-        "Pregunta a tu pareja cómo utiliza salida."
+        "Pregunta por una experiencia con terminal.",
+        "Pregunta por una experiencia con puerta.",
+        "Pregunta por una experiencia con pasaporte.",
+        "Pregunta por una experiencia con embarque.",
+        "Pregunta por una experiencia con pantalla.",
+        "Pregunta por una experiencia con maleta.",
+        "Pregunta por una experiencia con etiqueta.",
+        "Pregunta por una experiencia con salida."
       ]
     ]
   },
@@ -8400,44 +8400,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use reception.",
-        "Ask a partner how they use booking.",
-        "Ask a partner how they use key.",
-        "Ask a partner how they use lift.",
-        "Ask a partner how they use room.",
-        "Ask a partner how they use towel.",
-        "Ask a partner how they use breakfast.",
-        "Ask a partner how they use checkout."
+        "Ask about an experience with reception.",
+        "Ask about an experience with booking.",
+        "Ask about an experience with key.",
+        "Ask about an experience with lift.",
+        "Ask about an experience with room.",
+        "Ask about an experience with towel.",
+        "Ask about an experience with breakfast.",
+        "Ask about an experience with checkout."
       ],
       [
-        "프런트: 어떻게 사용하는지 짝에게 물어보세요.",
-        "예약: 어떻게 사용하는지 짝에게 물어보세요.",
-        "열쇠: 어떻게 사용하는지 짝에게 물어보세요.",
-        "승강기: 어떻게 사용하는지 짝에게 물어보세요.",
-        "객실: 어떻게 사용하는지 짝에게 물어보세요.",
-        "수건: 어떻게 사용하는지 짝에게 물어보세요.",
-        "아침식사: 어떻게 사용하는지 짝에게 물어보세요.",
-        "퇴실: 어떻게 사용하는지 짝에게 물어보세요."
+        "프런트: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "예약: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "열쇠: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "승강기: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "객실: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "수건: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "아침식사: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "퇴실: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "フロントの使い方を相手に聞きます。",
-        "予約の使い方を相手に聞きます。",
-        "鍵の使い方を相手に聞きます。",
-        "エレベーターの使い方を相手に聞きます。",
-        "客室の使い方を相手に聞きます。",
-        "タオルの使い方を相手に聞きます。",
-        "朝食の使い方を相手に聞きます。",
-        "チェックアウトの使い方を相手に聞きます。"
+        "フロントに関する経験や場面を相手に聞きます。",
+        "予約に関する経験や場面を相手に聞きます。",
+        "鍵に関する経験や場面を相手に聞きます。",
+        "エレベーターに関する経験や場面を相手に聞きます。",
+        "客室に関する経験や場面を相手に聞きます。",
+        "タオルに関する経験や場面を相手に聞きます。",
+        "朝食に関する経験や場面を相手に聞きます。",
+        "チェックアウトに関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza recepción.",
-        "Pregunta a tu pareja cómo utiliza reserva.",
-        "Pregunta a tu pareja cómo utiliza llave.",
-        "Pregunta a tu pareja cómo utiliza ascensor.",
-        "Pregunta a tu pareja cómo utiliza habitación.",
-        "Pregunta a tu pareja cómo utiliza toalla.",
-        "Pregunta a tu pareja cómo utiliza desayuno.",
-        "Pregunta a tu pareja cómo utiliza salida."
+        "Pregunta por una experiencia con recepción.",
+        "Pregunta por una experiencia con reserva.",
+        "Pregunta por una experiencia con llave.",
+        "Pregunta por una experiencia con ascensor.",
+        "Pregunta por una experiencia con habitación.",
+        "Pregunta por una experiencia con toalla.",
+        "Pregunta por una experiencia con desayuno.",
+        "Pregunta por una experiencia con salida."
       ]
     ]
   },
@@ -8715,44 +8715,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use menu.",
-        "Ask a partner how they use cup.",
-        "Ask a partner how they use table.",
-        "Ask a partner how they use order.",
-        "Ask a partner how they use receipt.",
-        "Ask a partner how they use milk.",
-        "Ask a partner how they use spoon.",
-        "Ask a partner how they use napkin."
+        "Ask about an experience with menu.",
+        "Ask about an experience with cup.",
+        "Ask about an experience with table.",
+        "Ask about an experience with order.",
+        "Ask about an experience with receipt.",
+        "Ask about an experience with milk.",
+        "Ask about an experience with spoon.",
+        "Ask about an experience with napkin."
       ],
       [
-        "메뉴: 어떻게 사용하는지 짝에게 물어보세요.",
-        "잔: 어떻게 사용하는지 짝에게 물어보세요.",
-        "테이블: 어떻게 사용하는지 짝에게 물어보세요.",
-        "주문: 어떻게 사용하는지 짝에게 물어보세요.",
-        "영수증: 어떻게 사용하는지 짝에게 물어보세요.",
-        "우유: 어떻게 사용하는지 짝에게 물어보세요.",
-        "숟가락: 어떻게 사용하는지 짝에게 물어보세요.",
-        "냅킨: 어떻게 사용하는지 짝에게 물어보세요."
+        "메뉴: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "잔: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "테이블: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "주문: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "영수증: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "우유: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "숟가락: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "냅킨: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "メニューの使い方を相手に聞きます。",
-        "カップの使い方を相手に聞きます。",
-        "テーブルの使い方を相手に聞きます。",
-        "注文の使い方を相手に聞きます。",
-        "レシートの使い方を相手に聞きます。",
-        "ミルクの使い方を相手に聞きます。",
-        "スプーンの使い方を相手に聞きます。",
-        "ナプキンの使い方を相手に聞きます。"
+        "メニューに関する経験や場面を相手に聞きます。",
+        "カップに関する経験や場面を相手に聞きます。",
+        "テーブルに関する経験や場面を相手に聞きます。",
+        "注文に関する経験や場面を相手に聞きます。",
+        "レシートに関する経験や場面を相手に聞きます。",
+        "ミルクに関する経験や場面を相手に聞きます。",
+        "スプーンに関する経験や場面を相手に聞きます。",
+        "ナプキンに関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza menú.",
-        "Pregunta a tu pareja cómo utiliza taza.",
-        "Pregunta a tu pareja cómo utiliza mesa.",
-        "Pregunta a tu pareja cómo utiliza pedido.",
-        "Pregunta a tu pareja cómo utiliza recibo.",
-        "Pregunta a tu pareja cómo utiliza leche.",
-        "Pregunta a tu pareja cómo utiliza cuchara.",
-        "Pregunta a tu pareja cómo utiliza servilleta."
+        "Pregunta por una experiencia con menú.",
+        "Pregunta por una experiencia con taza.",
+        "Pregunta por una experiencia con mesa.",
+        "Pregunta por una experiencia con pedido.",
+        "Pregunta por una experiencia con recibo.",
+        "Pregunta por una experiencia con leche.",
+        "Pregunta por una experiencia con cuchara.",
+        "Pregunta por una experiencia con servilleta."
       ]
     ]
   },
@@ -9030,44 +9030,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use tool.",
-        "Ask a partner how they use bolt.",
-        "Ask a partner how they use hinge.",
-        "Ask a partner how they use handle.",
-        "Ask a partner how they use part.",
-        "Ask a partner how they use manual.",
-        "Ask a partner how they use bench.",
-        "Ask a partner how they use label."
+        "Ask about an experience with tool.",
+        "Ask about an experience with bolt.",
+        "Ask about an experience with hinge.",
+        "Ask about an experience with handle.",
+        "Ask about an experience with part.",
+        "Ask about an experience with manual.",
+        "Ask about an experience with bench.",
+        "Ask about an experience with label."
       ],
       [
-        "도구: 어떻게 사용하는지 짝에게 물어보세요.",
-        "볼트: 어떻게 사용하는지 짝에게 물어보세요.",
-        "경첩: 어떻게 사용하는지 짝에게 물어보세요.",
-        "손잡이: 어떻게 사용하는지 짝에게 물어보세요.",
-        "부품: 어떻게 사용하는지 짝에게 물어보세요.",
-        "설명서: 어떻게 사용하는지 짝에게 물어보세요.",
-        "작업대: 어떻게 사용하는지 짝에게 물어보세요.",
-        "이름표: 어떻게 사용하는지 짝에게 물어보세요."
+        "도구: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "볼트: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "경첩: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "손잡이: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "부품: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "설명서: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "작업대: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "이름표: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "工具の使い方を相手に聞きます。",
-        "ボルトの使い方を相手に聞きます。",
-        "蝶番の使い方を相手に聞きます。",
-        "取っ手の使い方を相手に聞きます。",
-        "部品の使い方を相手に聞きます。",
-        "説明書の使い方を相手に聞きます。",
-        "作業台の使い方を相手に聞きます。",
-        "ラベルの使い方を相手に聞きます。"
+        "工具に関する経験や場面を相手に聞きます。",
+        "ボルトに関する経験や場面を相手に聞きます。",
+        "蝶番に関する経験や場面を相手に聞きます。",
+        "取っ手に関する経験や場面を相手に聞きます。",
+        "部品に関する経験や場面を相手に聞きます。",
+        "説明書に関する経験や場面を相手に聞きます。",
+        "作業台に関する経験や場面を相手に聞きます。",
+        "ラベルに関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza herramienta.",
-        "Pregunta a tu pareja cómo utiliza perno.",
-        "Pregunta a tu pareja cómo utiliza bisagra.",
-        "Pregunta a tu pareja cómo utiliza asa.",
-        "Pregunta a tu pareja cómo utiliza pieza.",
-        "Pregunta a tu pareja cómo utiliza manual.",
-        "Pregunta a tu pareja cómo utiliza banco.",
-        "Pregunta a tu pareja cómo utiliza etiqueta."
+        "Pregunta por una experiencia con herramienta.",
+        "Pregunta por una experiencia con perno.",
+        "Pregunta por una experiencia con bisagra.",
+        "Pregunta por una experiencia con asa.",
+        "Pregunta por una experiencia con pieza.",
+        "Pregunta por una experiencia con manual.",
+        "Pregunta por una experiencia con banco.",
+        "Pregunta por una experiencia con etiqueta."
       ]
     ]
   },
@@ -9345,44 +9345,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use shadow.",
-        "Ask a partner how they use frame.",
-        "Ask a partner how they use light.",
-        "Ask a partner how they use angle.",
-        "Ask a partner how they use bridge.",
-        "Ask a partner how they use window.",
-        "Ask a partner how they use texture.",
-        "Ask a partner how they use reflection."
+        "Ask about an experience with shadow.",
+        "Ask about an experience with frame.",
+        "Ask about an experience with light.",
+        "Ask about an experience with angle.",
+        "Ask about an experience with bridge.",
+        "Ask about an experience with window.",
+        "Ask about an experience with texture.",
+        "Ask about an experience with reflection."
       ],
       [
-        "그림자: 어떻게 사용하는지 짝에게 물어보세요.",
-        "구도: 어떻게 사용하는지 짝에게 물어보세요.",
-        "빛: 어떻게 사용하는지 짝에게 물어보세요.",
-        "각도: 어떻게 사용하는지 짝에게 물어보세요.",
-        "다리: 어떻게 사용하는지 짝에게 물어보세요.",
-        "창문: 어떻게 사용하는지 짝에게 물어보세요.",
-        "질감: 어떻게 사용하는지 짝에게 물어보세요.",
-        "반사: 어떻게 사용하는지 짝에게 물어보세요."
+        "그림자: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "구도: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "빛: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "각도: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "다리: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "창문: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "질감: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "반사: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "影の使い方を相手に聞きます。",
-        "構図の使い方を相手に聞きます。",
-        "光の使い方を相手に聞きます。",
-        "角度の使い方を相手に聞きます。",
-        "橋の使い方を相手に聞きます。",
-        "窓の使い方を相手に聞きます。",
-        "質感の使い方を相手に聞きます。",
-        "反射の使い方を相手に聞きます。"
+        "影に関する経験や場面を相手に聞きます。",
+        "構図に関する経験や場面を相手に聞きます。",
+        "光に関する経験や場面を相手に聞きます。",
+        "角度に関する経験や場面を相手に聞きます。",
+        "橋に関する経験や場面を相手に聞きます。",
+        "窓に関する経験や場面を相手に聞きます。",
+        "質感に関する経験や場面を相手に聞きます。",
+        "反射に関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza sombra.",
-        "Pregunta a tu pareja cómo utiliza encuadre.",
-        "Pregunta a tu pareja cómo utiliza luz.",
-        "Pregunta a tu pareja cómo utiliza ángulo.",
-        "Pregunta a tu pareja cómo utiliza puente.",
-        "Pregunta a tu pareja cómo utiliza ventana.",
-        "Pregunta a tu pareja cómo utiliza textura.",
-        "Pregunta a tu pareja cómo utiliza reflejo."
+        "Pregunta por una experiencia con sombra.",
+        "Pregunta por una experiencia con encuadre.",
+        "Pregunta por una experiencia con luz.",
+        "Pregunta por una experiencia con ángulo.",
+        "Pregunta por una experiencia con puente.",
+        "Pregunta por una experiencia con ventana.",
+        "Pregunta por una experiencia con textura.",
+        "Pregunta por una experiencia con reflejo."
       ]
     ]
   },
@@ -9660,44 +9660,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use chapter.",
-        "Ask a partner how they use character.",
-        "Ask a partner how they use setting.",
-        "Ask a partner how they use conflict.",
-        "Ask a partner how they use ending.",
-        "Ask a partner how they use quote.",
-        "Ask a partner how they use theme.",
-        "Ask a partner how they use narrator."
+        "Ask about an experience with chapter.",
+        "Ask about an experience with character.",
+        "Ask about an experience with setting.",
+        "Ask about an experience with conflict.",
+        "Ask about an experience with ending.",
+        "Ask about an experience with quote.",
+        "Ask about an experience with theme.",
+        "Ask about an experience with narrator."
       ],
       [
-        "장: 어떻게 사용하는지 짝에게 물어보세요.",
-        "등장인물: 어떻게 사용하는지 짝에게 물어보세요.",
-        "배경: 어떻게 사용하는지 짝에게 물어보세요.",
-        "갈등: 어떻게 사용하는지 짝에게 물어보세요.",
-        "결말: 어떻게 사용하는지 짝에게 물어보세요.",
-        "인용: 어떻게 사용하는지 짝에게 물어보세요.",
-        "주제: 어떻게 사용하는지 짝에게 물어보세요.",
-        "화자: 어떻게 사용하는지 짝에게 물어보세요."
+        "장: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "등장인물: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "배경: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "갈등: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "결말: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "인용: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "주제: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "화자: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "章の使い方を相手に聞きます。",
-        "登場人物の使い方を相手に聞きます。",
-        "舞台の使い方を相手に聞きます。",
-        "対立の使い方を相手に聞きます。",
-        "結末の使い方を相手に聞きます。",
-        "引用の使い方を相手に聞きます。",
-        "主題の使い方を相手に聞きます。",
-        "語り手の使い方を相手に聞きます。"
+        "章に関する経験や場面を相手に聞きます。",
+        "登場人物に関する経験や場面を相手に聞きます。",
+        "舞台に関する経験や場面を相手に聞きます。",
+        "対立に関する経験や場面を相手に聞きます。",
+        "結末に関する経験や場面を相手に聞きます。",
+        "引用に関する経験や場面を相手に聞きます。",
+        "主題に関する経験や場面を相手に聞きます。",
+        "語り手に関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza capítulo.",
-        "Pregunta a tu pareja cómo utiliza personaje.",
-        "Pregunta a tu pareja cómo utiliza escenario.",
-        "Pregunta a tu pareja cómo utiliza conflicto.",
-        "Pregunta a tu pareja cómo utiliza final.",
-        "Pregunta a tu pareja cómo utiliza cita.",
-        "Pregunta a tu pareja cómo utiliza tema.",
-        "Pregunta a tu pareja cómo utiliza narrador."
+        "Pregunta por una experiencia con capítulo.",
+        "Pregunta por una experiencia con personaje.",
+        "Pregunta por una experiencia con escenario.",
+        "Pregunta por una experiencia con conflicto.",
+        "Pregunta por una experiencia con final.",
+        "Pregunta por una experiencia con cita.",
+        "Pregunta por una experiencia con tema.",
+        "Pregunta por una experiencia con narrador."
       ]
     ]
   },
@@ -9975,44 +9975,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use microphone.",
-        "Ask a partner how they use intro.",
-        "Ask a partner how they use guest.",
-        "Ask a partner how they use question.",
-        "Ask a partner how they use pause.",
-        "Ask a partner how they use script.",
-        "Ask a partner how they use clip.",
-        "Ask a partner how they use outro."
+        "Ask about an experience with microphone.",
+        "Ask about an experience with intro.",
+        "Ask about an experience with guest.",
+        "Ask about an experience with question.",
+        "Ask about an experience with pause.",
+        "Ask about an experience with script.",
+        "Ask about an experience with clip.",
+        "Ask about an experience with outro."
       ],
       [
-        "마이크: 어떻게 사용하는지 짝에게 물어보세요.",
-        "도입: 어떻게 사용하는지 짝에게 물어보세요.",
-        "게스트: 어떻게 사용하는지 짝에게 물어보세요.",
-        "질문: 어떻게 사용하는지 짝에게 물어보세요.",
-        "쉼: 어떻게 사용하는지 짝에게 물어보세요.",
-        "대본: 어떻게 사용하는지 짝에게 물어보세요.",
-        "음성조각: 어떻게 사용하는지 짝에게 물어보세요.",
-        "마무리: 어떻게 사용하는지 짝에게 물어보세요."
+        "마이크: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "도입: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "게스트: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "질문: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "쉼: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "대본: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "음성조각: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "마무리: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "マイクの使い方を相手に聞きます。",
-        "導入の使い方を相手に聞きます。",
-        "ゲストの使い方を相手に聞きます。",
-        "質問の使い方を相手に聞きます。",
-        "間の使い方を相手に聞きます。",
-        "台本の使い方を相手に聞きます。",
-        "音声クリップの使い方を相手に聞きます。",
-        "締めくくりの使い方を相手に聞きます。"
+        "マイクに関する経験や場面を相手に聞きます。",
+        "導入に関する経験や場面を相手に聞きます。",
+        "ゲストに関する経験や場面を相手に聞きます。",
+        "質問に関する経験や場面を相手に聞きます。",
+        "間に関する経験や場面を相手に聞きます。",
+        "台本に関する経験や場面を相手に聞きます。",
+        "音声クリップに関する経験や場面を相手に聞きます。",
+        "締めくくりに関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza micrófono.",
-        "Pregunta a tu pareja cómo utiliza introducción.",
-        "Pregunta a tu pareja cómo utiliza invitado.",
-        "Pregunta a tu pareja cómo utiliza pregunta.",
-        "Pregunta a tu pareja cómo utiliza pausa.",
-        "Pregunta a tu pareja cómo utiliza guion.",
-        "Pregunta a tu pareja cómo utiliza fragmento.",
-        "Pregunta a tu pareja cómo utiliza cierre."
+        "Pregunta por una experiencia con micrófono.",
+        "Pregunta por una experiencia con introducción.",
+        "Pregunta por una experiencia con invitado.",
+        "Pregunta por una experiencia con pregunta.",
+        "Pregunta por una experiencia con pausa.",
+        "Pregunta por una experiencia con guion.",
+        "Pregunta por una experiencia con fragmento.",
+        "Pregunta por una experiencia con cierre."
       ]
     ]
   },
@@ -10290,44 +10290,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use seed.",
-        "Ask a partner how they use soil.",
-        "Ask a partner how they use pot.",
-        "Ask a partner how they use water.",
-        "Ask a partner how they use leaf.",
-        "Ask a partner how they use root.",
-        "Ask a partner how they use stem.",
-        "Ask a partner how they use notebook."
+        "Ask about an experience with seed.",
+        "Ask about an experience with soil.",
+        "Ask about an experience with pot.",
+        "Ask about an experience with water.",
+        "Ask about an experience with leaf.",
+        "Ask about an experience with root.",
+        "Ask about an experience with stem.",
+        "Ask about an experience with notebook."
       ],
       [
-        "씨앗: 어떻게 사용하는지 짝에게 물어보세요.",
-        "흙: 어떻게 사용하는지 짝에게 물어보세요.",
-        "화분: 어떻게 사용하는지 짝에게 물어보세요.",
-        "물: 어떻게 사용하는지 짝에게 물어보세요.",
-        "잎: 어떻게 사용하는지 짝에게 물어보세요.",
-        "뿌리: 어떻게 사용하는지 짝에게 물어보세요.",
-        "줄기: 어떻게 사용하는지 짝에게 물어보세요.",
-        "관찰장: 어떻게 사용하는지 짝에게 물어보세요."
+        "씨앗: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "흙: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "화분: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "물: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "잎: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "뿌리: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "줄기: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "관찰장: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "種の使い方を相手に聞きます。",
-        "土の使い方を相手に聞きます。",
-        "鉢の使い方を相手に聞きます。",
-        "水の使い方を相手に聞きます。",
-        "葉の使い方を相手に聞きます。",
-        "根の使い方を相手に聞きます。",
-        "茎の使い方を相手に聞きます。",
-        "観察帳の使い方を相手に聞きます。"
+        "種に関する経験や場面を相手に聞きます。",
+        "土に関する経験や場面を相手に聞きます。",
+        "鉢に関する経験や場面を相手に聞きます。",
+        "水に関する経験や場面を相手に聞きます。",
+        "葉に関する経験や場面を相手に聞きます。",
+        "根に関する経験や場面を相手に聞きます。",
+        "茎に関する経験や場面を相手に聞きます。",
+        "観察帳に関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza semilla.",
-        "Pregunta a tu pareja cómo utiliza tierra.",
-        "Pregunta a tu pareja cómo utiliza maceta.",
-        "Pregunta a tu pareja cómo utiliza agua.",
-        "Pregunta a tu pareja cómo utiliza hoja.",
-        "Pregunta a tu pareja cómo utiliza raíz.",
-        "Pregunta a tu pareja cómo utiliza tallo.",
-        "Pregunta a tu pareja cómo utiliza cuaderno."
+        "Pregunta por una experiencia con semilla.",
+        "Pregunta por una experiencia con tierra.",
+        "Pregunta por una experiencia con maceta.",
+        "Pregunta por una experiencia con agua.",
+        "Pregunta por una experiencia con hoja.",
+        "Pregunta por una experiencia con raíz.",
+        "Pregunta por una experiencia con tallo.",
+        "Pregunta por una experiencia con cuaderno."
       ]
     ]
   },
@@ -10605,44 +10605,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use sensor.",
-        "Ask a partner how they use motor.",
-        "Ask a partner how they use wheel.",
-        "Ask a partner how they use cable.",
-        "Ask a partner how they use code.",
-        "Ask a partner how they use button.",
-        "Ask a partner how they use route.",
-        "Ask a partner how they use test."
+        "Ask about an experience with sensor.",
+        "Ask about an experience with motor.",
+        "Ask about an experience with wheel.",
+        "Ask about an experience with cable.",
+        "Ask about an experience with code.",
+        "Ask about an experience with button.",
+        "Ask about an experience with route.",
+        "Ask about an experience with test."
       ],
       [
-        "센서: 어떻게 사용하는지 짝에게 물어보세요.",
-        "모터: 어떻게 사용하는지 짝에게 물어보세요.",
-        "바퀴: 어떻게 사용하는지 짝에게 물어보세요.",
-        "케이블: 어떻게 사용하는지 짝에게 물어보세요.",
-        "코드: 어떻게 사용하는지 짝에게 물어보세요.",
-        "버튼: 어떻게 사용하는지 짝에게 물어보세요.",
-        "경로: 어떻게 사용하는지 짝에게 물어보세요.",
-        "시험: 어떻게 사용하는지 짝에게 물어보세요."
+        "센서: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "모터: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "바퀴: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "케이블: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "코드: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "버튼: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "경로: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "시험: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "センサーの使い方を相手に聞きます。",
-        "モーターの使い方を相手に聞きます。",
-        "車輪の使い方を相手に聞きます。",
-        "ケーブルの使い方を相手に聞きます。",
-        "コードの使い方を相手に聞きます。",
-        "ボタンの使い方を相手に聞きます。",
-        "経路の使い方を相手に聞きます。",
-        "テストの使い方を相手に聞きます。"
+        "センサーに関する経験や場面を相手に聞きます。",
+        "モーターに関する経験や場面を相手に聞きます。",
+        "車輪に関する経験や場面を相手に聞きます。",
+        "ケーブルに関する経験や場面を相手に聞きます。",
+        "コードに関する経験や場面を相手に聞きます。",
+        "ボタンに関する経験や場面を相手に聞きます。",
+        "経路に関する経験や場面を相手に聞きます。",
+        "テストに関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza sensor.",
-        "Pregunta a tu pareja cómo utiliza motor.",
-        "Pregunta a tu pareja cómo utiliza rueda.",
-        "Pregunta a tu pareja cómo utiliza cable.",
-        "Pregunta a tu pareja cómo utiliza código.",
-        "Pregunta a tu pareja cómo utiliza botón.",
-        "Pregunta a tu pareja cómo utiliza ruta.",
-        "Pregunta a tu pareja cómo utiliza prueba."
+        "Pregunta por una experiencia con sensor.",
+        "Pregunta por una experiencia con motor.",
+        "Pregunta por una experiencia con rueda.",
+        "Pregunta por una experiencia con cable.",
+        "Pregunta por una experiencia con código.",
+        "Pregunta por una experiencia con botón.",
+        "Pregunta por una experiencia con ruta.",
+        "Pregunta por una experiencia con prueba."
       ]
     ]
   },
@@ -10920,44 +10920,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use box.",
-        "Ask a partner how they use bottle.",
-        "Ask a partner how they use paper.",
-        "Ask a partner how they use fabric.",
-        "Ask a partner how they use repair.",
-        "Ask a partner how they use sort.",
-        "Ask a partner how they use collect.",
-        "Ask a partner how they use reuse."
+        "Ask about an experience with box.",
+        "Ask about an experience with bottle.",
+        "Ask about an experience with paper.",
+        "Ask about an experience with fabric.",
+        "Ask about an experience with repair.",
+        "Ask about an experience with sort.",
+        "Ask about an experience with collect.",
+        "Ask about an experience with reuse."
       ],
       [
-        "상자: 어떻게 사용하는지 짝에게 물어보세요.",
-        "병: 어떻게 사용하는지 짝에게 물어보세요.",
-        "종이: 어떻게 사용하는지 짝에게 물어보세요.",
-        "천: 어떻게 사용하는지 짝에게 물어보세요.",
-        "수선: 어떻게 사용하는지 짝에게 물어보세요.",
-        "분류: 어떻게 사용하는지 짝에게 물어보세요.",
-        "수집: 어떻게 사용하는지 짝에게 물어보세요.",
-        "재사용: 어떻게 사용하는지 짝에게 물어보세요."
+        "상자: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "병: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "종이: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "천: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "수선: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "분류: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "수집: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "재사용: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "箱の使い方を相手に聞きます。",
-        "瓶の使い方を相手に聞きます。",
-        "紙の使い方を相手に聞きます。",
-        "布の使い方を相手に聞きます。",
-        "修理の使い方を相手に聞きます。",
-        "分類の使い方を相手に聞きます。",
-        "回収の使い方を相手に聞きます。",
-        "再利用の使い方を相手に聞きます。"
+        "箱に関する経験や場面を相手に聞きます。",
+        "瓶に関する経験や場面を相手に聞きます。",
+        "紙に関する経験や場面を相手に聞きます。",
+        "布に関する経験や場面を相手に聞きます。",
+        "修理に関する経験や場面を相手に聞きます。",
+        "分類に関する経験や場面を相手に聞きます。",
+        "回収に関する経験や場面を相手に聞きます。",
+        "再利用に関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza caja.",
-        "Pregunta a tu pareja cómo utiliza botella.",
-        "Pregunta a tu pareja cómo utiliza papel.",
-        "Pregunta a tu pareja cómo utiliza tela.",
-        "Pregunta a tu pareja cómo utiliza reparar.",
-        "Pregunta a tu pareja cómo utiliza clasificar.",
-        "Pregunta a tu pareja cómo utiliza recoger.",
-        "Pregunta a tu pareja cómo utiliza reutilizar."
+        "Pregunta por una experiencia con caja.",
+        "Pregunta por una experiencia con botella.",
+        "Pregunta por una experiencia con papel.",
+        "Pregunta por una experiencia con tela.",
+        "Pregunta por una experiencia con reparar.",
+        "Pregunta por una experiencia con clasificar.",
+        "Pregunta por una experiencia con recoger.",
+        "Pregunta por una experiencia con reutilizar."
       ]
     ]
   },
@@ -11235,44 +11235,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use welcome.",
-        "Ask a partner how they use roster.",
-        "Ask a partner how they use station.",
-        "Ask a partner how they use kit.",
-        "Ask a partner how they use break.",
-        "Ask a partner how they use helper.",
-        "Ask a partner how they use sign.",
-        "Ask a partner how they use cleanup."
+        "Ask about an experience with welcome.",
+        "Ask about an experience with roster.",
+        "Ask about an experience with station.",
+        "Ask about an experience with kit.",
+        "Ask about an experience with break.",
+        "Ask about an experience with helper.",
+        "Ask about an experience with sign.",
+        "Ask about an experience with cleanup."
       ],
       [
-        "환영: 어떻게 사용하는지 짝에게 물어보세요.",
-        "명단: 어떻게 사용하는지 짝에게 물어보세요.",
-        "담당구역: 어떻게 사용하는지 짝에게 물어보세요.",
-        "준비물: 어떻게 사용하는지 짝에게 물어보세요.",
-        "휴식: 어떻게 사용하는지 짝에게 물어보세요.",
-        "도우미: 어떻게 사용하는지 짝에게 물어보세요.",
-        "표지판: 어떻게 사용하는지 짝에게 물어보세요.",
-        "정리: 어떻게 사용하는지 짝에게 물어보세요."
+        "환영: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "명단: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "담당구역: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "준비물: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "휴식: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "도우미: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "표지판: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "정리: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "歓迎の使い方を相手に聞きます。",
-        "名簿の使い方を相手に聞きます。",
-        "担当場所の使い方を相手に聞きます。",
-        "道具一式の使い方を相手に聞きます。",
-        "休憩の使い方を相手に聞きます。",
-        "手伝いの使い方を相手に聞きます。",
-        "案内板の使い方を相手に聞きます。",
-        "片付けの使い方を相手に聞きます。"
+        "歓迎に関する経験や場面を相手に聞きます。",
+        "名簿に関する経験や場面を相手に聞きます。",
+        "担当場所に関する経験や場面を相手に聞きます。",
+        "道具一式に関する経験や場面を相手に聞きます。",
+        "休憩に関する経験や場面を相手に聞きます。",
+        "手伝いに関する経験や場面を相手に聞きます。",
+        "案内板に関する経験や場面を相手に聞きます。",
+        "片付けに関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza bienvenida.",
-        "Pregunta a tu pareja cómo utiliza lista.",
-        "Pregunta a tu pareja cómo utiliza puesto.",
-        "Pregunta a tu pareja cómo utiliza material.",
-        "Pregunta a tu pareja cómo utiliza descanso.",
-        "Pregunta a tu pareja cómo utiliza ayudante.",
-        "Pregunta a tu pareja cómo utiliza cartel.",
-        "Pregunta a tu pareja cómo utiliza limpieza."
+        "Pregunta por una experiencia con bienvenida.",
+        "Pregunta por una experiencia con lista.",
+        "Pregunta por una experiencia con puesto.",
+        "Pregunta por una experiencia con material.",
+        "Pregunta por una experiencia con descanso.",
+        "Pregunta por una experiencia con ayudante.",
+        "Pregunta por una experiencia con cartel.",
+        "Pregunta por una experiencia con limpieza."
       ]
     ]
   },
@@ -11550,44 +11550,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use stage.",
-        "Ask a partner how they use poster.",
-        "Ask a partner how they use booth.",
-        "Ask a partner how they use schedule.",
-        "Ask a partner how they use performer.",
-        "Ask a partner how they use entrance.",
-        "Ask a partner how they use tent.",
-        "Ask a partner how they use volunteer."
+        "Ask about an experience with stage.",
+        "Ask about an experience with poster.",
+        "Ask about an experience with booth.",
+        "Ask about an experience with schedule.",
+        "Ask about an experience with performer.",
+        "Ask about an experience with entrance.",
+        "Ask about an experience with tent.",
+        "Ask about an experience with volunteer."
       ],
       [
-        "무대: 어떻게 사용하는지 짝에게 물어보세요.",
-        "포스터: 어떻게 사용하는지 짝에게 물어보세요.",
-        "부스: 어떻게 사용하는지 짝에게 물어보세요.",
-        "일정: 어떻게 사용하는지 짝에게 물어보세요.",
-        "공연자: 어떻게 사용하는지 짝에게 물어보세요.",
-        "입구: 어떻게 사용하는지 짝에게 물어보세요.",
-        "천막: 어떻게 사용하는지 짝에게 물어보세요.",
-        "봉사자: 어떻게 사용하는지 짝에게 물어보세요."
+        "무대: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "포스터: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "부스: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "일정: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "공연자: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "입구: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "천막: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "봉사자: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "舞台の使い方を相手に聞きます。",
-        "ポスターの使い方を相手に聞きます。",
-        "ブースの使い方を相手に聞きます。",
-        "予定の使い方を相手に聞きます。",
-        "出演者の使い方を相手に聞きます。",
-        "入口の使い方を相手に聞きます。",
-        "テントの使い方を相手に聞きます。",
-        "係員の使い方を相手に聞きます。"
+        "舞台に関する経験や場面を相手に聞きます。",
+        "ポスターに関する経験や場面を相手に聞きます。",
+        "ブースに関する経験や場面を相手に聞きます。",
+        "予定に関する経験や場面を相手に聞きます。",
+        "出演者に関する経験や場面を相手に聞きます。",
+        "入口に関する経験や場面を相手に聞きます。",
+        "テントに関する経験や場面を相手に聞きます。",
+        "係員に関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza escenario.",
-        "Pregunta a tu pareja cómo utiliza cartel.",
-        "Pregunta a tu pareja cómo utiliza puesto.",
-        "Pregunta a tu pareja cómo utiliza horario.",
-        "Pregunta a tu pareja cómo utiliza artista.",
-        "Pregunta a tu pareja cómo utiliza entrada.",
-        "Pregunta a tu pareja cómo utiliza carpa.",
-        "Pregunta a tu pareja cómo utiliza voluntario."
+        "Pregunta por una experiencia con escenario.",
+        "Pregunta por una experiencia con cartel.",
+        "Pregunta por una experiencia con puesto.",
+        "Pregunta por una experiencia con horario.",
+        "Pregunta por una experiencia con artista.",
+        "Pregunta por una experiencia con entrada.",
+        "Pregunta por una experiencia con carpa.",
+        "Pregunta por una experiencia con voluntario."
       ]
     ]
   },
@@ -11865,44 +11865,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use turn.",
-        "Ask a partner how they use token.",
-        "Ask a partner how they use dice.",
-        "Ask a partner how they use board.",
-        "Ask a partner how they use rule.",
-        "Ask a partner how they use card.",
-        "Ask a partner how they use score.",
-        "Ask a partner how they use round."
+        "Ask about an experience with turn.",
+        "Ask about an experience with token.",
+        "Ask about an experience with dice.",
+        "Ask about an experience with board.",
+        "Ask about an experience with rule.",
+        "Ask about an experience with card.",
+        "Ask about an experience with score.",
+        "Ask about an experience with round."
       ],
       [
-        "차례: 어떻게 사용하는지 짝에게 물어보세요.",
-        "말: 어떻게 사용하는지 짝에게 물어보세요.",
-        "주사위: 어떻게 사용하는지 짝에게 물어보세요.",
-        "게임판: 어떻게 사용하는지 짝에게 물어보세요.",
-        "규칙: 어떻게 사용하는지 짝에게 물어보세요.",
-        "카드: 어떻게 사용하는지 짝에게 물어보세요.",
-        "점수: 어떻게 사용하는지 짝에게 물어보세요.",
-        "라운드: 어떻게 사용하는지 짝에게 물어보세요."
+        "차례: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "말: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "주사위: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "게임판: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "규칙: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "카드: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "점수: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "라운드: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "手番の使い方を相手に聞きます。",
-        "駒の使い方を相手に聞きます。",
-        "サイコロの使い方を相手に聞きます。",
-        "盤の使い方を相手に聞きます。",
-        "ルールの使い方を相手に聞きます。",
-        "カードの使い方を相手に聞きます。",
-        "得点の使い方を相手に聞きます。",
-        "ラウンドの使い方を相手に聞きます。"
+        "手番に関する経験や場面を相手に聞きます。",
+        "駒に関する経験や場面を相手に聞きます。",
+        "サイコロに関する経験や場面を相手に聞きます。",
+        "盤に関する経験や場面を相手に聞きます。",
+        "ルールに関する経験や場面を相手に聞きます。",
+        "カードに関する経験や場面を相手に聞きます。",
+        "得点に関する経験や場面を相手に聞きます。",
+        "ラウンドに関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza turno.",
-        "Pregunta a tu pareja cómo utiliza ficha.",
-        "Pregunta a tu pareja cómo utiliza dado.",
-        "Pregunta a tu pareja cómo utiliza tablero.",
-        "Pregunta a tu pareja cómo utiliza regla.",
-        "Pregunta a tu pareja cómo utiliza carta.",
-        "Pregunta a tu pareja cómo utiliza puntuación.",
-        "Pregunta a tu pareja cómo utiliza ronda."
+        "Pregunta por una experiencia con turno.",
+        "Pregunta por una experiencia con ficha.",
+        "Pregunta por una experiencia con dado.",
+        "Pregunta por una experiencia con tablero.",
+        "Pregunta por una experiencia con regla.",
+        "Pregunta por una experiencia con carta.",
+        "Pregunta por una experiencia con puntuación.",
+        "Pregunta por una experiencia con ronda."
       ]
     ]
   },
@@ -12180,44 +12180,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use layout.",
-        "Ask a partner how they use contrast.",
-        "Ask a partner how they use label.",
-        "Ask a partner how they use spacing.",
-        "Ask a partner how they use button.",
-        "Ask a partner how they use icon.",
-        "Ask a partner how they use feedback.",
-        "Ask a partner how they use prototype."
+        "Ask about an experience with layout.",
+        "Ask about an experience with contrast.",
+        "Ask about an experience with label.",
+        "Ask about an experience with spacing.",
+        "Ask about an experience with button.",
+        "Ask about an experience with icon.",
+        "Ask about an experience with feedback.",
+        "Ask about an experience with prototype."
       ],
       [
-        "배치: 어떻게 사용하는지 짝에게 물어보세요.",
-        "대비: 어떻게 사용하는지 짝에게 물어보세요.",
-        "표시문구: 어떻게 사용하는지 짝에게 물어보세요.",
-        "간격: 어떻게 사용하는지 짝에게 물어보세요.",
-        "버튼: 어떻게 사용하는지 짝에게 물어보세요.",
-        "아이콘: 어떻게 사용하는지 짝에게 물어보세요.",
-        "의견: 어떻게 사용하는지 짝에게 물어보세요.",
-        "시제품: 어떻게 사용하는지 짝에게 물어보세요."
+        "배치: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "대비: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "표시문구: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "간격: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "버튼: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "아이콘: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "의견: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "시제품: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "配置の使い方を相手に聞きます。",
-        "コントラストの使い方を相手に聞きます。",
-        "ラベルの使い方を相手に聞きます。",
-        "余白の使い方を相手に聞きます。",
-        "ボタンの使い方を相手に聞きます。",
-        "アイコンの使い方を相手に聞きます。",
-        "意見の使い方を相手に聞きます。",
-        "試作品の使い方を相手に聞きます。"
+        "配置に関する経験や場面を相手に聞きます。",
+        "コントラストに関する経験や場面を相手に聞きます。",
+        "ラベルに関する経験や場面を相手に聞きます。",
+        "余白に関する経験や場面を相手に聞きます。",
+        "ボタンに関する経験や場面を相手に聞きます。",
+        "アイコンに関する経験や場面を相手に聞きます。",
+        "意見に関する経験や場面を相手に聞きます。",
+        "試作品に関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza diseño.",
-        "Pregunta a tu pareja cómo utiliza contraste.",
-        "Pregunta a tu pareja cómo utiliza etiqueta.",
-        "Pregunta a tu pareja cómo utiliza espacio.",
-        "Pregunta a tu pareja cómo utiliza botón.",
-        "Pregunta a tu pareja cómo utiliza icono.",
-        "Pregunta a tu pareja cómo utiliza comentario.",
-        "Pregunta a tu pareja cómo utiliza prototipo."
+        "Pregunta por una experiencia con diseño.",
+        "Pregunta por una experiencia con contraste.",
+        "Pregunta por una experiencia con etiqueta.",
+        "Pregunta por una experiencia con espacio.",
+        "Pregunta por una experiencia con botón.",
+        "Pregunta por una experiencia con icono.",
+        "Pregunta por una experiencia con comentario.",
+        "Pregunta por una experiencia con prototipo."
       ]
     ]
   },
@@ -12495,44 +12495,44 @@ export const activityExpansion = [
     ],
     "list": [
       [
-        "Ask a partner how they use agenda.",
-        "Ask a partner how they use link.",
-        "Ask a partner how they use microphone.",
-        "Ask a partner how they use notes.",
-        "Ask a partner how they use decision.",
-        "Ask a partner how they use owner.",
-        "Ask a partner how they use deadline.",
-        "Ask a partner how they use summary."
+        "Ask about an experience with agenda.",
+        "Ask about an experience with link.",
+        "Ask about an experience with microphone.",
+        "Ask about an experience with notes.",
+        "Ask about an experience with decision.",
+        "Ask about an experience with owner.",
+        "Ask about an experience with deadline.",
+        "Ask about an experience with summary."
       ],
       [
-        "안건: 어떻게 사용하는지 짝에게 물어보세요.",
-        "접속주소: 어떻게 사용하는지 짝에게 물어보세요.",
-        "마이크: 어떻게 사용하는지 짝에게 물어보세요.",
-        "메모: 어떻게 사용하는지 짝에게 물어보세요.",
-        "결정: 어떻게 사용하는지 짝에게 물어보세요.",
-        "담당자: 어떻게 사용하는지 짝에게 물어보세요.",
-        "기한: 어떻게 사용하는지 짝에게 물어보세요.",
-        "요약: 어떻게 사용하는지 짝에게 물어보세요."
+        "안건: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "접속주소: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "마이크: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "메모: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "결정: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "담당자: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "기한: 관련된 경험이나 상황을 짝에게 물어보세요.",
+        "요약: 관련된 경험이나 상황을 짝에게 물어보세요."
       ],
       [
-        "議題の使い方を相手に聞きます。",
-        "リンクの使い方を相手に聞きます。",
-        "マイクの使い方を相手に聞きます。",
-        "メモの使い方を相手に聞きます。",
-        "決定の使い方を相手に聞きます。",
-        "担当者の使い方を相手に聞きます。",
-        "期限の使い方を相手に聞きます。",
-        "要約の使い方を相手に聞きます。"
+        "議題に関する経験や場面を相手に聞きます。",
+        "リンクに関する経験や場面を相手に聞きます。",
+        "マイクに関する経験や場面を相手に聞きます。",
+        "メモに関する経験や場面を相手に聞きます。",
+        "決定に関する経験や場面を相手に聞きます。",
+        "担当者に関する経験や場面を相手に聞きます。",
+        "期限に関する経験や場面を相手に聞きます。",
+        "要約に関する経験や場面を相手に聞きます。"
       ],
       [
-        "Pregunta a tu pareja cómo utiliza agenda.",
-        "Pregunta a tu pareja cómo utiliza enlace.",
-        "Pregunta a tu pareja cómo utiliza micrófono.",
-        "Pregunta a tu pareja cómo utiliza notas.",
-        "Pregunta a tu pareja cómo utiliza decisión.",
-        "Pregunta a tu pareja cómo utiliza responsable.",
-        "Pregunta a tu pareja cómo utiliza plazo.",
-        "Pregunta a tu pareja cómo utiliza resumen."
+        "Pregunta por una experiencia con agenda.",
+        "Pregunta por una experiencia con enlace.",
+        "Pregunta por una experiencia con micrófono.",
+        "Pregunta por una experiencia con notas.",
+        "Pregunta por una experiencia con decisión.",
+        "Pregunta por una experiencia con responsable.",
+        "Pregunta por una experiencia con plazo.",
+        "Pregunta por una experiencia con resumen."
       ]
     ]
   },
