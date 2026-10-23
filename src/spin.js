@@ -13,7 +13,9 @@ let names = config.names,
   angle = 0,
   busy = false,
   last = null,
-  history = [];
+  history = [],
+  batchWinners = [],
+  currentTeams = [];
 const colors = [
   "#ffd35d",
   "#ef6b53",
@@ -64,6 +66,10 @@ function clearSelection() {
   $("remove").disabled = true;
   $("winner").hidden = true;
   $("team-results").replaceChildren();
+  $("teams-panel").hidden = true;
+  $("batch-results").hidden = true;
+  batchWinners = [];
+  currentTeams = [];
 }
 function update() {
   try {
@@ -106,7 +112,7 @@ function sound() {
 $("spin").onclick = () => {
   if (busy || !update()) return;
   busy = true;
-  for (const id of ["spin", "entries", "shuffle", "teams", "load"])
+  for (const id of ["spin", "entries", "shuffle", "teams", "load", "batch", "dedupe"])
     $(id).disabled = true;
   const index = randomInt(names.length),
     target = 360 - ((index + 0.5) * 360) / names.length,
@@ -118,7 +124,7 @@ $("spin").onclick = () => {
   const ms = matchMedia("(prefers-reduced-motion: reduce)").matches ? 20 : 3600;
   setTimeout(() => {
     busy = false;
-    for (const id of ["spin", "entries", "shuffle", "teams", "load"])
+    for (const id of ["spin", "entries", "shuffle", "teams", "load", "batch", "dedupe"])
       $(id).disabled = false;
     last = index;
     $("winner-name").textContent = names[index];
@@ -143,12 +149,18 @@ $("remove").onclick = () => {
   $("entries").value = names.join("\n");
   last = null;
   $("remove").disabled = true;
+  $("batch-results").hidden = true;
+  $("teams-panel").hidden = true;
+  batchWinners = [];
+  currentTeams = [];
   draw();
 };
 $("teams").onclick = () => {
   if (!update()) return;
   try {
     const teams = groups(shuffle(names), Number($("team-count").value));
+    currentTeams = teams;
+    $("teams-panel").hidden = false;
     $("team-results").innerHTML = teams
       .map(
         (a, i) =>
@@ -161,6 +173,32 @@ $("teams").onclick = () => {
     status(t("teamCount") + ": 2–" + names.length);
   }
 };
+$("dedupe").onclick = () => {
+  if (!update()) return;
+  const unique = [...new Set(names)];
+  if (unique.length < 2) { status(t("invalid")); return; }
+  names = unique;
+  $("entries").value = names.join("\n");
+  draw();
+  status(t("deduped"));
+};
+$("batch").onclick = () => {
+  if (busy || !update()) return;
+  const unique = [...new Set(names)], count = Number($("winner-count").value);
+  if (!Number.isInteger(count) || count < 1 || count > unique.length) {
+    status(t("batchInvalid")); return;
+  }
+  batchWinners = shuffle(unique).slice(0, count);
+  $("batch-list").innerHTML = batchWinners.map((name) => `<li>${escape(name)}</li>`).join("");
+  $("batch-results").hidden = false;
+  history = [...batchWinners, ...history].slice(0, 30);
+  $("history").innerHTML = history.map((name) => `<li>${escape(name)}</li>`).join("");
+  status(t("batchTitle") + " · " + count);
+  $("batch-results").scrollIntoView({ block: "nearest" });
+  track("batch_draw");
+};
+$("export-draw").onclick = () => download("denny-spin-draw.csv", csv([["#", t("winner")], ...batchWinners.map((name, i) => [i + 1, name])]));
+$("export-teams").onclick = () => download("denny-spin-teams.csv", csv([[t("team"), t("names")], ...currentTeams.flatMap((team, i) => team.map((name) => [i + 1, name]))]));
 $("download").onclick = () =>
   download("denny-spin.csv", csv([[t("history")], ...history.map((n) => [n])]));
 function restore(s) {

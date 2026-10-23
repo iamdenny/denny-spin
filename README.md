@@ -16,3 +16,9 @@ Links encode a snapshot; recipients can see its contents. They are not synchroni
 Coupang channel registration is pending: profile read/update failed in the provider UI. Affiliate banners remain disabled until persistent registration is verified (`coupang.channelRegistered`).
 
 Official network banner artwork is copied unchanged from MODU TT `/brand/`, Tools `/ko/promo/`, and Games `/ko/promote/`. Source URLs are recorded in `public/banners/sources.json`. Desktop rails use 160×600 assets; mobile uses the official 320×100 variants.
+
+## Workspace features
+
+Batch draws select unique names without replacement. Duplicate-name cleanup is explicit; ordinary spins still treat duplicate rows as separate entries. Batch winners and balanced teams have separate CSV exports. Session sharing continues to share the input list, not generated results.
+
+Focus mode expands the tool and hides surrounding promotional content until Exit focus or Escape. Default banner placements remain available. Controls and feedback are translated into English, Korean, Japanese and Spanish.
