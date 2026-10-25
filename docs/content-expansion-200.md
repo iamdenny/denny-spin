@@ -1,4 +1,13 @@
+---
+title: "Content expansion — 23 October 2026"
+summary: "Historical release record; consult operations for the current implementation"
+read_when:
+  - Maintaining this service or reviewing its implementation
+---
+
 # Content expansion — 23 October 2026
+
+> Historical record: counts, layouts and provider observations below describe that release. See [current operations](operations.md) for the reviewed implementation and outstanding verification.
 
 20 original everyday scenarios × 5 facilitated activities (explain, compare, question, mime, plan). Each has eight localized wheel entries and practical instructions.
 
